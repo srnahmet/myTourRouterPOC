@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/myTourRouterPublic/static/css/main.6905a51b.css",
+    "main.js": "/myTourRouterPublic/static/js/main.c3b78e56.js",
+    "static/js/453.fb9d37e5.chunk.js": "/myTourRouterPublic/static/js/453.fb9d37e5.chunk.js",
+    "index.html": "/myTourRouterPublic/index.html",
+    "static/media/google_maps_icon_2020.svg": "/myTourRouterPublic/static/media/google_maps_icon_2020.24b2bcb94349710b7f203c999d593810.svg",
+    "static/media/mapIcon.svg": "/myTourRouterPublic/static/media/mapIcon.049a97c4511f85a952cf1fa26f5450aa.svg",
+    "static/media/mapIconBlack.svg": "/myTourRouterPublic/static/media/mapIconBlack.5be277ce436ea7d7d42e8f4ec125002d.svg",
+    "main.6905a51b.css.map": "/myTourRouterPublic/static/css/main.6905a51b.css.map",
+    "main.c3b78e56.js.map": "/myTourRouterPublic/static/js/main.c3b78e56.js.map",
+    "453.fb9d37e5.chunk.js.map": "/myTourRouterPublic/static/js/453.fb9d37e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6905a51b.css",
+    "static/js/main.c3b78e56.js"
+  ]
+}

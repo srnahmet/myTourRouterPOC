@@ -1,0 +1,207 @@
+{
+    "best_path": [
+        "Göreme Merkez, Nevşehir",
+        "Aşk Vadisi, Nevşehir",
+        "Avanos Seramik Müzesi, Nevşehir",
+        "Devrent Vadisi, Nevşehir",
+        "Köşebaşı Restaurant, Nevşehir",
+        "Uçhisar Kalesi, Nevşehir",
+        "Paşabağ Açık Hava Müzesi, Nevşehir",
+        "Ortahisar, Nevşehir",
+        "Göreme Açık Hava Müzesi, Nevşehir",
+        "Göreme Merkez, Nevşehir"
+    ],
+    "end_hour": "17:16",
+    "google_maps_link": "https://www.google.com/maps/dir/?api=1&origin=38.6429307,34.8289038&destination=38.6429307,34.8289038&waypoints=38.6607035,34.8195566|38.7107948,34.842078|38.6724448,34.8857219|38.6417928,34.8238907|38.62977770000001,34.8052842|38.6246933,34.7141514|38.6208135,34.8648028|38.6401412,34.8454649",
+    "locations": {
+        "Avanos Seramik Müzesi, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.7107948,
+                "lng": 34.842078
+            }
+        },
+        "Aşk Vadisi, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6607035,
+                "lng": 34.8195566
+            }
+        },
+        "Devrent Vadisi, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6724448,
+                "lng": 34.8857219
+            }
+        },
+        "Göreme Açık Hava Müzesi, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6401412,
+                "lng": 34.8454649
+            }
+        },
+        "Göreme Merkez, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6429307,
+                "lng": 34.8289038
+            }
+        },
+        "Köşebaşı Restaurant, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6417928,
+                "lng": 34.8238907
+            }
+        },
+        "Ortahisar, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6208135,
+                "lng": 34.8648028
+            }
+        },
+        "Paşabağ Açık Hava Müzesi, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.6246933,
+                "lng": 34.7141514
+            }
+        },
+        "Uçhisar Kalesi, Nevşehir": {
+            "source_coordinates": {
+                "lat": 38.62977770000001,
+                "lng": 34.8052842
+            }
+        }
+    },
+    "overview_polyline_list": [
+        {
+            "points": "imzjF_pqsEAe@@KeBVaADa@Bo@EhAyB\\mARiADs@Cy@Im@Q]_@c@u@u@e@YcKwEyFqCuHsDiAi@}Ay@aBy@cCiAkDoAe@Km@MqAQeAE{B?}AFcBTaBb@iC~@o@Zw@b@eBpAsA`AgBbAa@PcBn@oC~@_B`@uB`@}Bh@oC|@aBd@FDFHJNJ\\oAxCeAvBiCxEcAzA]`@a@VqAt@wAlBaBfCw@~AyA~C_@vAg@jCw@hEUnAI`AEbBG`EKxB?l@HzANnCDxA?jAEbACd@BH@R?\\?f@Df@fBQ`AIz@Oj@Wp@c@d@a@|@k@lCaAh@]f@c@`@Ur@Y^U~@cA^SJ@JDTNZX^Nz@LjALl@R|@^PJ"
+        },
+        {
+            "points": "k|}jFguosE_@Si@Sm@Ss@M{@G]I_@Oo@i@IEKAODc@^i@j@WRc@Pk@V{@p@i@\\e@RkA`@[J]ReAx@s@b@i@V{@NgAJgAJYB]JULNq@Fa@NqAHiBC_CKiCOgCB{AH_DJoEHcAz@{Ef@qC`@gBf@wAlAeCl@kArAuBvAoBJMh@[hAq@p@w@Vc@pBoDjBqD~@sBXw@AIEMKOSUuAXmALiAFiA?qAKsDq@iA[gAe@qCqBaF{DsG_FkCcCwDiEw@w@c@c@gAq@cA_@qAc@uCoAuAi@o@Oa@EeBI{DPaI^kBDqDSgGo@k@QaCi@}C{@[CiAI}BGgCC{AGEBUCiDc@qJkAuEg@iKkAkIs@wGa@cI_@uNs@kKg@aGOeDMcEGeBEyBEUMkAGsAWo@ByAL_@@cAGcF]_CImBDs@DyAV{@NoFl@mDt@q@Fu@?"
+        },
+        {
+            "points": "mugkF_btsEEVZ@p@CtBWhBc@~Em@tAQnAK`@Gx@EpC@jCJvBTbA@bDTf@mMFqHEsEQaDY{DeAwLo@eHa@kDg@wD]eC`@m@rAcBrA_B|EsFpAaBdAaBv@wAdBkEvC}CvB{ArE}C|CkBpBqArDcCpHaFnGcEzGmE|@m@xJoGjC}Af@a@V]\\o@b@_BVq@NOHCLE|@?xD@l@EVGx@i@hG{FfD{CrDaDvAiAxEgCpAw@jAy@d@c@V]b@mAx@eDJm@h@_DPgEDmAJkAPeAPg@Xi@r@s@x@u@lBwAdDaCx@s@`CuBj@m@`@e@lBcBxAsAjAs@rAg@xBe@t@Cb@@v@?f@MPIHKTy@f@wB"
+        },
+        {
+            "points": "we`kFwr|sEg@vBUx@IJQHg@Lw@?c@Au@ByBd@sAf@kAr@yArAmBbBa@d@k@l@aCtBy@r@eD`CmBvAy@t@s@r@Yh@Qf@QdAKjAElAQfEi@~CKl@y@dDc@lAW\\e@b@kAx@qAv@yEfCwAhAsD`DgDzCiGzFy@h@WFm@DyDA}@?MDIBONMXX`ARl@\\dAr@vAp@dAjApAj@f@nAv@d@XfAj@t@XzAd@vCb@z@HpBFpBAfAB`AJlDp@zD|@~Bp@l@V~@d@zC|A~ApAz@v@r@d@jAf@`@LjCj@hBZpGr@pD`@`DXNBFHADGJyHrByCr@}@Re@Z[^Sb@w@tBeCxFmAjCWx@Kj@CLOXYTw@L[@IBOP[t@gAlCiAbBW`@ELIZWnBg@bDYz@_@r@Yp@G^@b@J\\b@b@d@b@h@ZbAT`@PFL@LAb@Gj@Sp@}@jCMx@E^AvACnJA~ECfAKx@[vAcAtCg@tA]|@a@zAWhAgAnHsArJk@|@GFKz@v@FbBP~C`@|ANPCRBtEf@pEVhBEdDQxBKvCOdACz@Bz@F^F`@NhFtBvBv@\\Jd@Vn@j@r@n@|AbBfCrCjAdAvAlAzEpDnHxFnA|@^PtAd@rB`@|AXnAJhA?vCUtAY`Be@nC}@|Bi@pAWbCk@bEuApAk@fBcArAaAdBqAv@c@n@[hC_A`Bc@fAOxBMzB?dADpAPl@Ld@JjDnAbChA~DrBzFpCbJnEtI~DfAd@d@Xt@t@^b@P\\Hl@Bx@XGGt@YxCKzBd@~KGhCVbBp@bAhAv@bA`@\\TtAdAd@f@LRKLW`@IT?B"
+        },
+        {
+            "points": "efzjFippsETk@V]_@i@q@m@uA_AcAa@m@a@[UqAnB_BhBw@CU@_@Lu@l@g@TWB[Ek@U_@U{ByAw@zBoApCQ^IXA`AFxAP`Ax@bEVfATp@|@zAZXz@l@`ClAfC|@pFdBpBx@rDnBbAx@|CxCrDjDnAbBt@n@|@l@lDlBbDnCb@RlBZp@^FH\\`@NXBDh@hArBnDv@zA\\v@ZpAThA@bB?fA?FEtBO|@Ql@m@rAi@|@Wh@I\\EZA^@v@Hl@Nd@LTn@x@zB`CtB~BVf@LZF^Bt@In@Wf@YXq@d@gAj@QVKPGXAt@F`@Rd@NRVNv@XlAXZPPN`@h@Z|@Fn@BdB@lAFr@Jj@Lb@`@x@X\\`@Zl@XVJXT|@X`AVH]tAaFdAiDXs@`@w@|@mBX}AZyAh@gCf@{Aq@{EIs@@yAq@[m@QMMOm@KeA?a@"
+        },
+        {
+            "points": "c{wjF_|lsEB~@RfAJVDBl@Pp@Zd@VnAfAd@L?@?@?@ABGRwA|EVzAP|B\\vDP|B`@jEt@jHDv@?z@Ch@KtA[r@`@l@Rb@b@jA\\bA\\dC`@jDj@rHf@dITvDHjC@bCDtBEdAc@dJWnFAxB?lBRvFVvFBlB?`BIpBU~BgA~GkAzIgA`J}AxMeBlMe@nCQ\\e@nAy@zBk@jBg@fDKp@Oh@AV@LcAjD[vA_@tBOlAQpBc@rJq@bPWzFs@nLc@tJMtEBrIFrC^lHf@vGz@vKb@~Fx@pLF`ABpBLtBj@dJDvB?`BG`B?vAQxMWdME|AA^Mh@Yb@MFM@[KMOKe@@UN]RMh@Ir@Tf@TZXd@v@pAtDbBhFbCnIrCfJ`A`DbBjHj@vCABCD?H@THLLDf@`BlAfFnDtNd@|Bx@pCt@pCaAh@aAXOeB?KLKRC`@Sj@SLCEQ"
+        },
+        {
+            "points": "i{vjFmb{rEmDmN{ByI}@kECYYgA@A?ABI?ICSIKGCO[Uy@oBqIaBaGu@kCqAoEsAiEGSA[Q{@Os@YmA_BgFuA{DYaAMy@ImAC}@DsAHsCJeFDmCJyCBg@?qBA_AIwBQcD]gFS{D?y@[iEiAcM]gFe@{HOiCK{@c@iHIwCEqE@kAHmEZcGZsEz@qQn@cP^gKTwBp@iE\\qANq@z@gCj@yARe@xEaKzMkYxJsSr@wAtAuDzAaDdFwKpAwChAmCvE}MbD{JxCiJtAgExB_Gr@{ATs@jAwE~@{CxDiLdH}SzA_Ej@oAf@kAvG_NrBwEdBaG|@sEpBqIr@}BVw@dBuDxCmGd@eAPm@RcAJqABgAIsASy@oAsBu@mAm@aAYo@Qo@]kBM}BB}AZ{Bv@}Ch@aCPwBGwBEm@]qBg@{AM[}@qAqBeCc@k@_@s@Yo@Mm@Oy@OwB@aBDo@VcBZeAd@oAvBcF`AyBb@eA`AwC\\}AN}ADy@?eACu@Es@UsA_@kAi@kA{DmGmBmDcB{Cs@gAcBcC}@}AuAkCgCqFcH_PaByD_CcFeAuBy@yAmAoBaA{AIKyFsH_DwDgAeA{@u@s@o@w@g@gBkAeCmBsDuCiIsGgA{@eCmB_AwC_AkCm@wBa@{Bo@}DES|AuB|BiDr@kArAwBjBiEFiAIqBEq@COJg@ZgA?A?A@C?GBOBQAoBAoACa@Ko@Me@l@sATq@^gBxB{Cj@_@Tc@RoAJYFOb@Bx@@PAh@CjAT\\DR?NEFCRF"
+        },
+        {
+            "points": "acvjF_pxsESGHGNOHODGGSOYWSy@Sk@CMDMP[\\y@Ak@CK?ER[bAKXSnAUb@k@^yBzC_@fBUp@m@rAeAd@i@PoBXkA^GGSMc@AOFKJMh@_@jBKTIFGBAJO^e@f@k@`@CHm@FeA\\gFvBaDrAaDrAiBx@]TaABi@XZf@fAvAvElGbCzCnAzAhCrCZ\\PPa@v@Y^W\\[Na@Ze@h@m@f@uBbBk@t@o@bB_@fBaAnCk@~@o@bAyAlBo@dAOd@MbAKtAGVOZ}A~BsBzC_BzAeAx@qGrEoBnA_GbEiE|Ck@Z_@NoA`@_BNiB@mA@]DeAVeBl@mAf@g@JQAWEYQYc@w@cD^oA\\qAb@eBJg@^y@z@aA`@k@HM~B}BrC_D"
+        },
+        {
+            "points": "{{yjFcwtsE_A`AmBtB[ZqArAc@n@{@`A_@x@o@lCk@pBe@nBWbBOnACh@EfAU~HOlD]rGOxAe@zBQh@[\\y@l@SPMVIf@AXJx@?z@IvAM|@]v@fAd@d@Xt@t@^b@P\\Hl@Bx@Er@ShA]lAiAxBn@D`@C`AEdBWAJ@d@"
+        }
+    ],
+    "start_hour": "09:00",
+    "total_hour": "08:16",
+    "tour_details": [
+        {
+            "arrival_hour": "-",
+            "departure_hour": "09:00",
+            "lat": 38.6429307,
+            "lng": 34.8289038,
+            "location": "Göreme Merkez, Nevşehir",
+            "order": 1,
+            "title": "Göreme Merkez, Nevşehir",
+            "waited_time": 0
+        },
+        {
+            "arrival_hour": "09:10",
+            "departure_hour": "09:55",
+            "lat": 38.6607035,
+            "lng": 34.8195566,
+            "location": "Aşk Vadisi, Nevşehir",
+            "order": 2,
+            "title": "Aşk Vadisi, Nevşehir",
+            "waited_time": 45
+        },
+        {
+            "arrival_hour": "10:07",
+            "departure_hour": "10:52",
+            "lat": 38.7107948,
+            "lng": 34.842078,
+            "location": "Avanos Seramik Müzesi, Nevşehir",
+            "order": 3,
+            "title": "Avanos Seramik Müzesi, Nevşehir",
+            "waited_time": 45
+        },
+        {
+            "arrival_hour": "11:02",
+            "departure_hour": "11:47",
+            "lat": 38.6724448,
+            "lng": 34.8857219,
+            "location": "Devrent Vadisi, Nevşehir",
+            "order": 4,
+            "title": "Devrent Vadisi, Nevşehir",
+            "waited_time": 45
+        },
+        {
+            "arrival_hour": "12:06",
+            "departure_hour": "12:51",
+            "lat": 38.6417928,
+            "lng": 34.8238907,
+            "location": "Köşebaşı Restaurant, Nevşehir",
+            "order": 5,
+            "title": "Köşebaşı Restaurant, Nevşehir",
+            "waited_time": 45
+        },
+        {
+            "arrival_hour": "13:00",
+            "departure_hour": "14:00",
+            "lat": 38.62977770000001,
+            "lng": 34.8052842,
+            "location": "Uçhisar Kalesi, Nevşehir",
+            "order": 6,
+            "title": "Uçhisar Kalesi, Nevşehir",
+            "waited_time": 60
+        },
+        {
+            "arrival_hour": "14:18",
+            "departure_hour": "14:48",
+            "lat": 38.6246933,
+            "lng": 34.7141514,
+            "location": "Paşabağ Açık Hava Müzesi, Nevşehir",
+            "order": 7,
+            "title": "Paşabağ Açık Hava Müzesi, Nevşehir",
+            "waited_time": 30
+        },
+        {
+            "arrival_hour": "15:08",
+            "departure_hour": "16:08",
+            "lat": 38.6208135,
+            "lng": 34.8648028,
+            "location": "Ortahisar, Nevşehir",
+            "order": 8,
+            "title": "Ortahisar, Nevşehir",
+            "waited_time": 60
+        },
+        {
+            "arrival_hour": "16:19",
+            "departure_hour": "17:09",
+            "lat": 38.6401412,
+            "lng": 34.8454649,
+            "location": "Göreme Açık Hava Müzesi, Nevşehir",
+            "order": 9,
+            "title": "Göreme Açık Hava Müzesi, Nevşehir",
+            "waited_time": 50
+        },
+        {
+            "arrival_hour": "17:16",
+            "departure_hour": "-",
+            "lat": 38.6429307,
+            "lng": 34.8289038,
+            "location": "Göreme Merkez, Nevşehir",
+            "order": 10,
+            "title": "Göreme Merkez, Nevşehir",
+            "waited_hour": "-",
+            "waited_time": 0
+        }
+    ],
+    "tour_details_string": " Sıra                              Konum Varış Kalkış  Beklenen Süre (Dakika)     Enlem    Boylam\n    1            Göreme Merkez, Nevşehir     -  09:00                     0.0 38.642931 34.828904\n    2               Aşk Vadisi, Nevşehir 09:10  09:55                    45.0 38.660703 34.819557\n    3    Avanos Seramik Müzesi, Nevşehir 10:07  10:52                    45.0 38.710795 34.842078\n    4           Devrent Vadisi, Nevşehir 11:02  11:47                    45.0 38.672445 34.885722\n    5      Köşebaşı Restaurant, Nevşehir 12:06  12:51                    45.0 38.641793 34.823891\n    6           Uçhisar Kalesi, Nevşehir 13:00  14:00                    60.0 38.629778 34.805284\n    7 Paşabağ Açık Hava Müzesi, Nevşehir 14:18  14:48                    30.0 38.624693 34.714151\n    8                Ortahisar, Nevşehir 15:08  16:08                    60.0 38.620813 34.864803\n    9  Göreme Açık Hava Müzesi, Nevşehir 16:19  17:09                    50.0 38.640141 34.845465\n   10            Göreme Merkez, Nevşehir 17:16      -                     0.0 38.642931 34.828904"
+}
