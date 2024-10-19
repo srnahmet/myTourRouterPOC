@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/myTourRouterPOC/static/css/main.6905a51b.css",
-    "main.js": "/myTourRouterPOC/static/js/main.3ba80292.js",
+    "main.js": "/myTourRouterPOC/static/js/main.64842a0c.js",
     "static/js/453.fb9d37e5.chunk.js": "/myTourRouterPOC/static/js/453.fb9d37e5.chunk.js",
     "static/media/google_maps_icon_2020.svg": "/myTourRouterPOC/static/media/google_maps_icon_2020.24b2bcb94349710b7f203c999d593810.svg",
     "index.html": "/myTourRouterPOC/index.html",
     "static/media/mapIcon.svg": "/myTourRouterPOC/static/media/mapIcon.049a97c4511f85a952cf1fa26f5450aa.svg",
     "static/media/mapIconBlack.svg": "/myTourRouterPOC/static/media/mapIconBlack.5be277ce436ea7d7d42e8f4ec125002d.svg",
     "main.6905a51b.css.map": "/myTourRouterPOC/static/css/main.6905a51b.css.map",
-    "main.3ba80292.js.map": "/myTourRouterPOC/static/js/main.3ba80292.js.map",
+    "main.64842a0c.js.map": "/myTourRouterPOC/static/js/main.64842a0c.js.map",
     "453.fb9d37e5.chunk.js.map": "/myTourRouterPOC/static/js/453.fb9d37e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6905a51b.css",
-    "static/js/main.3ba80292.js"
+    "static/js/main.64842a0c.js"
   ]
 }
